@@ -1,0 +1,8 @@
+suyash rai
+king kohli
+
+insert
+--INSERT--
+:x
+:x
+
